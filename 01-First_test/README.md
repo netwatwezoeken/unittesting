@@ -1,4 +1,4 @@
-# 01: First test
+# 1: First test
 
 1. Open the solution in this directory using Visual Studio
 1. Take a look at what the code does
