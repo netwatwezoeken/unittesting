@@ -7,7 +7,7 @@
     1. Added required project reference
     1. Create a Calculator instance
     1. Call it's method `Add`
-    1. Check the outcome using `Assert.Equals(....)`
+    1. Check the outcome using `Assert.Equal(....)`
 1. Build everything and run the unit test
     * By pressing `Ctrl + R, T`
     * or right click on the Class then `Run Test(s)`
